@@ -20,6 +20,7 @@
 		699E54C327775AEA009D7E5A /* MovieQuotesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699E54C227775AEA009D7E5A /* MovieQuotesUITestsLaunchTests.swift */; };
 		699E54D02777723F009D7E5A /* MovieCellCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699E54CF2777723F009D7E5A /* MovieCellCollectionViewCell.swift */; };
 		699E54D22777AF83009D7E5A /* MovieQuizViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699E54D12777AF82009D7E5A /* MovieQuizViewController.swift */; };
+		699E54D42777D406009D7E5A /* RVS_AutofillTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699E54D32777D406009D7E5A /* RVS_AutofillTextField.swift */; };
 		9A2519FFB339A776C2A3212D /* Pods_MovieQuotes_MovieQuotesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D43B6985E4099477F7572A1 /* Pods_MovieQuotes_MovieQuotesUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,7 @@
 		699E54C227775AEA009D7E5A /* MovieQuotesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieQuotesUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		699E54CF2777723F009D7E5A /* MovieCellCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCellCollectionViewCell.swift; sourceTree = "<group>"; };
 		699E54D12777AF82009D7E5A /* MovieQuizViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieQuizViewController.swift; sourceTree = "<group>"; };
+		699E54D32777D406009D7E5A /* RVS_AutofillTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RVS_AutofillTextField.swift; sourceTree = "<group>"; };
 		9D43B6985E4099477F7572A1 /* Pods_MovieQuotes_MovieQuotesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MovieQuotes_MovieQuotesUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B21CD568908440E89F9A1F98 /* Pods-MovieQuotesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieQuotesTests.debug.xcconfig"; path = "Target Support Files/Pods-MovieQuotesTests/Pods-MovieQuotesTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BF53A940C474F911C133247D /* Pods-MovieQuotes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieQuotes.debug.xcconfig"; path = "Target Support Files/Pods-MovieQuotes/Pods-MovieQuotes.debug.xcconfig"; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 				699E54A327775AE5009D7E5A /* HomeViewController.swift */,
 				699E54CF2777723F009D7E5A /* MovieCellCollectionViewCell.swift */,
 				699E54D12777AF82009D7E5A /* MovieQuizViewController.swift */,
+				699E54D32777D406009D7E5A /* RVS_AutofillTextField.swift */,
 				699E54A527775AE5009D7E5A /* Main.storyboard */,
 				699E54A827775AE9009D7E5A /* Assets.xcassets */,
 				699E54AA27775AE9009D7E5A /* LaunchScreen.storyboard */,
@@ -417,6 +420,7 @@
 				699E54A027775AE5009D7E5A /* AppDelegate.swift in Sources */,
 				699E54D22777AF83009D7E5A /* MovieQuizViewController.swift in Sources */,
 				699E54A227775AE5009D7E5A /* SceneDelegate.swift in Sources */,
+				699E54D42777D406009D7E5A /* RVS_AutofillTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
